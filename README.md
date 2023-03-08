@@ -7,7 +7,7 @@
 
 > 🌱 I’m currently learning React & Arduino
 
-<h3 align="center">Connect with me: nokid3v@gmail.com</h3>
+<h3 align="left">Connect with me: nokid3v@gmail.com</h3>
 <p align="left">
 </p>
 
