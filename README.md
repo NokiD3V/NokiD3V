@@ -2,8 +2,8 @@
 <h3 align="center">Developer from Russia :)</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nokid3v&row=2&column=3" alt="nokid3v" /></a> </p>
-# 🔭 I’m currently working on One piece infinity</p>
-# 🌱 I’m currently learning React & Arduino</p>
+## 🔭 I’m currently working on One piece infinity</p>
+# #🌱 I’m currently learning React & Arduino</p>
 
 <h3 align="center">Connect with me: nokid3v@gmail.com</h3>
 <p align="left">
