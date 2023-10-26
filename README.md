@@ -5,7 +5,7 @@
 
 > 🔭 I’m currently working on pet projects
 
-> 🌱 I’m currently learning Arduino & Backend
+> 🌱 I’m currently learning Java
 
 <h3 align="left">Connect with me: d3vnoki@gmail.com</h3>
 <p align="left">
