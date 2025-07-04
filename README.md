@@ -53,6 +53,6 @@
 ## 📫 Как связаться?
 
 Готов к интересным предложениям! Лучший способ связаться:  
-📧 **Email:** d3vnoki@gmail.com
-📱 **Telegram:** [t.me/nokid3v](https://t.me/nokid3v)
-💼 **HeadHunter:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 📧 **Email:** d3vnoki@gmail.com
+- 📱 **Telegram:** [t.me/nokid3v](https://t.me/nokid3v)
+- 💼 **HeadHunter:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
