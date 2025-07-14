@@ -42,4 +42,4 @@
 Готов к интересным предложениям! Лучший способ связаться:  
 - 📧 **Email:** d3vnoki@gmail.com
 - 📱 **Telegram:** [t.me/nokid3v](https://t.me/nokid3v)
-- 💼 **HeadHunter:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- 💼 **HeadHunter:** [hh.ru/NokiD3V]([https://linkedin.com/in/your-profile](https://perm.hh.ru/resume/512bb5b1ff0e333fea0039ed1f4b5173746b6b))
